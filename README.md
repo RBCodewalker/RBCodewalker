@@ -21,6 +21,7 @@ Here are some ideas to get you started:
 
 - I am a versatile Frontend Developer with a knack for Backend technologies and a passion for exceptional UI/UX design. Continual growth and skill advancement drive my career in software development.
 Take a look at the technologies I have already worked with:
+
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white)
