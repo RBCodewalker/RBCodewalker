@@ -60,8 +60,8 @@ Take a look at the technologies I have already worked with:
 - Design practices:
   From UI/UX design to implementing code using design patterns, I prioritize adhering to simple and consistent design principles to effectively develop applications. My comprehensive understanding of these principles proves particularly valuable when initiating new projects.
 
-### 📫 How to reach me:
+#### 📫 How to reach me:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/rajdeepbastakoti)
 [![Website](https://img.shields.io/badge/Website-Visit-brightgreen)](https://www.rajdeepbastakoti.com)
-![Profile Views](https://komarev.com/ghpvc/?username=rbcodewalker)
+![Profile Views](https://komarev.com/ghpvc/?username=RBCodewalker)
