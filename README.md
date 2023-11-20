@@ -64,4 +64,4 @@ Take a look at the technologies I have already worked with:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/rajdeepbastakoti)
 [![Website](https://img.shields.io/badge/Website-Visit-brightgreen)](https://www.rajdeepbastakoti.com)
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername)
+![Profile Views](https://komarev.com/ghpvc/?username=rbcodewalker)
