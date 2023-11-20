@@ -21,8 +21,10 @@ Here are some ideas to get you started:
 I am a versatile Frontend Developer with a knack for Backend technologies and a passion for exceptional UI/UX design. Continual growth and skill advancement drive my career in software development.
 Take a look at the technologies I have already worked with:
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
+![JS](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&logoColor=white)
+![TScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white)
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white)
@@ -34,8 +36,6 @@ Take a look at the technologies I have already worked with:
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white)
 ![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-FF26BE?logo=adobe%20xd&logoColor=white)
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
 
 
 
