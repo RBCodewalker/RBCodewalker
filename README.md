@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hi there, this is Rajdeep Bastakoti! 👋
+### Hi there👋, this is Rajdeep Bastakoti!
 
 #### Web/Software Developer | BSc Computer Science | 
 
-- I am a versatile Frontend Developer with a knack for Backend technologies and a passion for exceptional UI/UX design. Continual growth and skill advancement drive my career in software development.
+I am a versatile Frontend Developer with a knack for Backend technologies and a passion for exceptional UI/UX design. Continual growth and skill advancement drive my career in software development.
 Take a look at the technologies I have already worked with:
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&logoColor=white)
@@ -41,26 +41,28 @@ Take a look at the technologies I have already worked with:
 
 
 
-#### 🔭 I'm Currently Working On:
+#### 🔭 I am Currently Working On:
 
-- I am developing a dynamic web application using Angular, where I implement various features, such as components, services, and routing, to create a seamless user experience while integrating APIs and backend services to fetch and display real-time data using Angular's HttpClient module.
+- I am actively developing a dynamic MEAN stack application that interfaces with TMDB (The Movie Database) API. This application aims to be a comprehensive platform for exploring movies across various categories. Users can evaluate movies based on both user and critic ratings, facilitating the discovery of high-quality films for a delightful viewing experience. Stay tuned for updates on this exciting project!
 
-#### 🌱 What I'm Currently Learning:
+#### 🌱 I'm Currently Learning:
 
-- Angular: 
+- Node.js:
+  I am currently diving into Node.js, learning how to build strong and scalable server applications. I'm exploring its ins and outs through projects and studies to become more skilled in this powerful backend technology!
 
-    I am acquiring the skills to build robust and scalable web applications efficiently, leveraging its powerful features, TypeScript integration, and a thriving ecosystem of tools and libraries.
+- Angular:
+  At the same time, I'm focused on mastering Angular. I'm learning how to create dynamic and user-friendly interfaces for websites and applications. Through practice and study, I'm getting better at using this versatile front-end framework!
+ 
+#### 💬 Ask Me About:
 
-- Node.js 
+- Trending technologies:
+  I stay current with the latest technologies in software development, ensuring familiarity with preferred tools used by industry professionals. This knowledge allows me to select future-proof technologies tailored to specific projects, ensuring scalability and longevity.
 
-    I am expanding my expertise in backend development and leveraging its event-driven, asynchronous, non-blocking architecture, for building fast and scalable web applications.
+- Design practices:
+  From UI/UX design to implementing code using design patterns, I prioritize adhering to simple and consistent design principles to effectively develop applications. My comprehensive understanding of these principles proves particularly valuable when initiating new projects.
 
-#### 🙋‍♂️ Ask Me About:
+### 📫 How to reach me:
 
-- UI/UX: 
-
-    User research, wireframing, prototyping, usability testing, and creating intuitive experiences. I can also provide insights on design principles, Figma, and the latest trends.
-
-- Web Development: 
-
-    Front-end and back-end technologies, responsive design, databases, and deployment. Let's discuss creating dynamic and scalable web applications using HTML, CSS, JavaScript, React, Angular, Bootstrap, Tailwind and the best practices!
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/rajdeepbastakoti)
+[![Website](https://img.shields.io/badge/Website-Visit-brightgreen)](https://www.rajdeepbastakoti.com)
+![Profile Views](https://komarev.com/ghpvc/?username=yourusername)
