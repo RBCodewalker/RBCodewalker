@@ -27,7 +27,7 @@ Take a look at the technologies I have already worked with:
 ![TScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white)
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white)
-![NextJS](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![NextJS](https://img.shields.io/badge/next.js-000000?&logo=nextdotjs&logoColor=white)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=sql&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-blue?logo=python&logoColor=white)
