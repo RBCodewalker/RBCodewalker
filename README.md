@@ -28,6 +28,7 @@ Take a look at the technologies I have already worked with:
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white)
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white)
 ![NextJS](https://img.shields.io/badge/next.js-000000?&logo=nextdotjs&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/next.js-000000?&logo=nextdotjs&logoColor=white)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=sql&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-blue?logo=python&logoColor=white)
