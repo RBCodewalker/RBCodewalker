@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 #### Web/Software Developer | BSc Computer Science | 
 
-I am a versatile Frontend Developer with a knack for Backend technologies and a passion for exceptional UI/UX design. Continual growth and skill advancement drive my career in software development.
+I am a versatile Frontend Developer with some Backend knowledge and a passion for exceptional UI/UX design. Continual growth and skill advancement drive my career in software development.
 Take a look at the technologies I have already worked with:
 
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
