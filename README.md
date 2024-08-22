@@ -38,7 +38,7 @@ Take a look at the technologies I have already worked with:
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white)
 ![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-FF26BE?logo=adobe%20xd&logoColor=white)
-![FFMPEG](https://img.shields.io/badge/FFMPEG-v4.4-blue)
+![FFMPEG](https://img.shields.io/badge/FFMPEG-000000?style=for-the-badge&logo=ffmpeg&logoColor=white)
 
  
 #### 💬 Ask Me About:
