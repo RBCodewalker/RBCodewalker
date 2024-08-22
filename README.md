@@ -39,20 +39,6 @@ Take a look at the technologies I have already worked with:
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white)
 ![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-FF26BE?logo=adobe%20xd&logoColor=white)
 
-
-
-
-#### 🔭 I am Currently Working On:
-
-- I am actively developing a dynamic MEAN stack application that interfaces with TMDB (The Movie Database) API. This application aims to be a comprehensive platform for exploring movies across various categories. Users can evaluate movies based on both user and critic ratings, facilitating the discovery of high-quality films for a delightful viewing experience. Stay tuned for updates on this exciting project!
-
-#### 🌱 I'm Currently Learning:
-
-- Node.js:
-  I am currently diving into Node.js, learning how to build strong and scalable server applications. I'm exploring its ins and outs through projects and studies to become more skilled in this powerful backend technology!
-
-- Angular:
-  At the same time, I'm focused on mastering Angular. I'm learning how to create dynamic and user-friendly interfaces for websites and applications. Through practice and study, I'm getting better at using this versatile front-end framework!
  
 #### 💬 Ask Me About:
 
