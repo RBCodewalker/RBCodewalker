@@ -57,4 +57,4 @@ Take a look at the technologies I have already worked with:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rajdeepbastakoti)
 [![Website](https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.rajdeepbastakoti.com)
-![Profile Views](https://img.shields.io/badge/Profile%20Views-1234-brightgreen?style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=RBCodewalker&style=for-the-badge&color=brightgreen)
