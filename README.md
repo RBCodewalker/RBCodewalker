@@ -51,7 +51,7 @@ Take a look at the technologies I have already worked with:
   I stay current with the latest technologies in software development, ensuring familiarity with preferred tools used by industry professionals. This knowledge allows me to select future-proof technologies tailored to specific projects, ensuring scalability and longevity.
 
 - Design practices:
-  From UI/UX design to implementing code using design patterns, I prioritize adhering to simple and consistent design principles to effectively develop applications. My comprehensive understanding of these principles proves particularly valuable when initiating new projects.
+  From UI/UX design to implementing code using design patterns, I prioritize adhering to simple and consistent design principles to effectively develop applications. My comprehensive understanding of these principles proves particularly valuable when working with complex requirements, forging a realistic path for otherwise challenging projects.
 
 #### 📫 How to reach me:
 
